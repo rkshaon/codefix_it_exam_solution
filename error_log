@@ -1,0 +1,9 @@
+[10-Jun-2019 09:58:31 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/codefixlab/public_html/talent_hunt/application/controllers/Welcome.php on line 32
+[10-Jun-2019 09:59:18 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/codefixlab/public_html/talent_hunt/application/controllers/Welcome.php on line 32
+[10-Jun-2019 10:04:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/codefixlab/public_html/talent_hunt/application/views/backend/login/login_view.php on line 126
+[11-Jun-2019 12:32:33 UTC] PHP Fatal error:  Cannot redeclare Admin::print_division_ranklist() in /home/codefixlab/public_html/talent_hunt/application/controllers/backend/Admin.php on line 335
+[11-Jun-2019 12:32:56 UTC] PHP Fatal error:  Cannot redeclare Admin::print_division_ranklist() in /home/codefixlab/public_html/talent_hunt/application/controllers/backend/Admin.php on line 336
+[22-Oct-2019 19:56:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/codefixlab/public_html/oms/application/views/backend/admin_view/order/invoice_template/dom_invoice.php on line 118
+[22-Oct-2019 19:57:03 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/codefixlab/public_html/oms/application/views/backend/admin_view/order/invoice_template/dom_invoice.php on line 118
+[22-Oct-2019 20:00:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/codefixlab/public_html/oms/application/views/backend/admin_view/order/invoice_template/dom_invoice.php on line 118
+[22-Oct-2019 20:03:27 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/codefixlab/public_html/oms/application/views/backend/admin_view/order/invoice_template/dom_invoice.php on line 118

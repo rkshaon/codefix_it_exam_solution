@@ -1,0 +1,4 @@
+[10-Nov-2019 17:56:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '=' in /home/heriken6/public_html/oms/application/views/backend/admin_view/order/invoice_template/herican.php on line 13
+[10-Nov-2019 17:57:30 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '=' in /home/heriken6/public_html/oms/application/views/backend/admin_view/order/invoice_template/herican.php on line 13
+[17-Mar-2020 07:34:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/lajenterprise.com/public_html/application/controllers/backend/Hr.php on line 102
+[17-Mar-2020 07:35:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/lajenterprise.com/public_html/application/controllers/backend/Hr.php on line 102
